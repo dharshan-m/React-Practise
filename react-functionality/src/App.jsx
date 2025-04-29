@@ -7,6 +7,7 @@ import Day3 from './Components/LogicalBuilding/Day3';
 import Day4 from './Components/LogicalBuilding/Day4';
 import LogicExDay4 from './Components/LogicalBuilding/logicExDay4';
 import Day5 from './Components/LogicalBuilding/Day5';
+import LogicExDay6 from './Components/LogicalBuilding/logicExDay6';
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
       <Day4/>
       <LogicExDay4/>
       <Day5/>
+      <LogicExDay6/>
     </>
   )
 }
